@@ -1,3 +1,3 @@
-# TeslaInventoryBot 
+# TAI
 
-This bot will check Teslas sued car inventory, and alert users when certain parameters are met.
+TAI is the Tesla Auto Inventory.  It checks the availability of Tesla cars using their API.
